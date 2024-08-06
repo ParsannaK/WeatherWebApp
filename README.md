@@ -1,4 +1,5 @@
-# [WeatherWebApp]([url](https://parsannak.github.io/WeatherWebApp/))
+# Weather Web App
+[https://parsannak.github.io/WeatherWebApp/](url)
 ---
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/e35164a2-c249-40ac-9168-3a9c2b81556f">
 
